@@ -1,1 +1,2 @@
 # Health-Report
+This repository contains a web application for a Health Report Form implemented using PHP, MySQL, and JavaScript. Users can submit their health details and upload health reports in PDF format. The data is stored in a MySQL database, and users' health reports can be downloaded based on their email IDs. The application provides a clean and user-friendly interface with client-side validation and secure file handling.
